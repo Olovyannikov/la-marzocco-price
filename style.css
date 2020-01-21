@@ -1,5 +1,5 @@
 body {
-  margin: 20p;
+  margin: 20px;
   background-color: #f7f3e7;
 }
 .transition {
@@ -11,7 +11,7 @@ body {
 h2 {
   font-family: Montserrat, sans-serif;
   text-align: center;
-  color: RED;
+  color: red;
   margin-top: 20px;
 }
 h3 {
@@ -96,10 +96,8 @@ details {
   padding: 0;
   margin: 0;
   list-style: none;
-  display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   display: flex;
   -webkit-flex-flow: row wrap;
   justify-content: space-around;
