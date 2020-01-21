@@ -99,7 +99,6 @@ details {
   display: -moz-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-flow: row wrap;
   justify-content: space-around;
 }
 
